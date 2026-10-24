@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalcApp.MainPage">
+
+    <StackLayout>
+        <Label Text="First Number"></Label>
+        <Entry x:Name="txtfirst"></Entry>
+        <Label Text="Second Number"></Label>
+        <Entry x:Name="txtsecond"></Entry>
+        <Label Text="Result"></Label>
+        <Entry x:Name="txtresult"></Entry>
+        <Button Text="Click Here" Clicked="Button_Clicked"></Button>
+    </StackLayout>
+
+</ContentPage>
