@@ -1,4 +1,0 @@
-LuckyButton is a simple Windows Presentation Foundation (WPF) application developed using C# and XAML.
-This project demonstrates the implementation of button controls, click events, and basic event handling in WPF.
-It helps beginners understand how to design a user interface using XAML and write C# code to perform actions when a button is clicked. 
-This project is created for learning and practicing fundamental WPF concepts.
