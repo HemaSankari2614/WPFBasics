@@ -20,6 +20,7 @@ namespace LuckyButton
         {
             InitializeComponent();
         }
+
         private void btn1_Click(object sender, RoutedEventArgs e)
         {
             btn1.Content = btn1.Tag;

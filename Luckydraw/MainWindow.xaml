@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LuckyButton"
         mc:Ignorable="d"
-  
         Title="Lucky" Background="Black" Height="330" Width="300">
     <StackPanel>
         <StackPanel Orientation="Horizontal" Margin="0,70,0,0" HorizontalAlignment="Center">
