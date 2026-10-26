@@ -1,3 +1,0 @@
-This project demonstrates handling button click events in WPF. When a button is clicked, the application retrieves the button's content using `Content.
-ToString()` and displays a message such as "You Won + Button1".
-It helps practice event handling, button controls, and content manipulation in WPF.
